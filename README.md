@@ -1,10 +1,10 @@
 # Quantum Computing
 
-<center>
+<div align='center'>
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Quantum_teleportation_circuit.svg/300px-Quantum_teleportation_circuit.svg.png'>
 
-</center>
+</div>
 
 1. **Bell State**
 
