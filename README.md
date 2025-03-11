@@ -1,22 +1,20 @@
-# Quantum Computing
+# Estudos em Quantum Computing
+
+## Sumário
+
+- [1. Introdução à Computação Quântica](estudos/1_introducao.md)
+  - Superposição Quântica
+  - Qubit vs Bit Clássico
+  - Emaranhamento (ou entrelaçamento) quântico
+  - O estado de Bell
+- [2. Quantum Gates - Portas quânticas]()
+- [3. Circuitos Quânticos]()
 
 <div align='center'>
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Quantum_teleportation_circuit.svg/300px-Quantum_teleportation_circuit.svg.png'>
 
 </div>
-
-1. **Bell State**
-
-   A Bell state in quantum computing is a special type of entangled state where two qubits are linked such that the state of one qubit instantly influences the state of the other, no matter the distance between them.
-
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/The_Hadamard-CNOT_transform_on_the_zero-state.png/400px-The_Hadamard-CNOT_transform_on_the_zero-state.png'>
-
-2. **Superposition**
-
-   The principle that a qubit can exist in multiple states (0 and 1) simultaneously, rather than being in a single state like a classical bit.
-
-<img src='https://wikimedia.org/api/rest_v1/media/math/render/svg/f10213c27e86b15bff8015bd81b1d5983d14c5a4'>
 
 3. **Hadamard Gate**
 
