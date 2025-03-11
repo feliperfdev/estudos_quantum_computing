@@ -30,11 +30,29 @@ Em portas de apenas um qubit, nós aplicamos um pulso de micro-ondas de radiaç�
 
 <div align='center'>
 I = <img src='https://wikimedia.org/api/rest_v1/media/math/render/svg/d0df1bbd611c3587f00ad4c03a383bdd4ee469fc'/>
+
+<br/>
+
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Qcircuit_I.svg/225px-Qcircuit_I.svg.png' height=30/>
 </div>
 
 ## Portas de Pauli (Pauli Gates)
 
 ### Pauli Z Gate
+
+A porta Z inverte a fase relativa entre os estados de |0⟩ e |1⟩.
+
+<div align='center'>
+Z = <img src='https://wikimedia.org/api/rest_v1/media/math/render/svg/803175a4c9799720d573725e522a618cc6fe6cf9'/>
+
+<br/>
+
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Qcircuit_Z.svg/225px-Qcircuit_Z.svg.png' height=30/>
+</div>
+
+|ψ⟩ = a|0⟩ + b|1⟩, onde _a_ e _b_ são números complexos representando as amplitudes de estados do qubit.
+
+Z|ψ⟩ = a|0⟩ - b|1⟩
 
 ### Pauli X Gate
 
