@@ -14,11 +14,17 @@ Equação de Schrödinger, a qual descreve como o estado quântico de um sistema
 
 O **bit** (binary digit) é a menor unidade de informação que pode ser armazenada ou transmitida em sistemas digitais, podendo assumir dois valores: 0 ou 1.
 
-O **qubit** (quantum bit) é a únidade básica da computação quântica. Ele utiliza do fenômeno da mecânica quântica chamado de superposição para atingir a combinação linear de dois estados (sendo estes estados 0 e 1). Ou seja, um qubit pode representar um 0, um 1 ou qualquer proporção de 0 e 1 em superposição dos dois estados, com uma certa probabilidade de ser 0 e uma certa probabilidade de ser 1.
+O **qubit** (quantum bit) é a únidade básica da computação quântica. Ele utiliza do fenômeno da mecânica quântica chamado de superposição para atingir a combinação linear de dois estados (sendo estes estados 0 e 1). Ou seja, um qubit pode representar um |0⟩, um |1⟩ ou qualquer proporção de |0⟩ e |1⟩ em superposição dos dois estados, com uma certa probabilidade de ser |0⟩ e uma certa probabilidade de ser |1⟩.
 
 <div align='center'>
-<img src='https://wikimedia.org/api/rest_v1/media/math/render/svg/aabd1ffc6a57b00e254e4c212d98ebbea6ccc7fc'/>
+<b>|Ψ⟩ = α|0⟩ + β|1⟩</b>
 </div>
+
+<br/>
+Onde:
+
+|0⟩ = mat(1 0)<br/>
+|1⟩ = mat(0 1)
 
 <br/>
 <br/>

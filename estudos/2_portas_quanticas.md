@@ -24,12 +24,20 @@ Em portas de apenas um qubit, nós aplicamos um pulso de micro-ondas de radiaç�
 <img src='https://miro.medium.com/v2/resize:fit:1100/format:webp/1*QnuYi5v6sHS8ukihasjpUQ.png'/>
 </div>
 
+## Identity Gate (I) - Porta de Identidade
+
+É apenas uma matriz identidade. Ou seja, qualquer qubit arbitrário, α1|0⟩ + α2|1⟩ por exemplo, multiplicado por essa matriz resultará nele mesmo.
+
+<div align='center'>
+I = <img src='https://wikimedia.org/api/rest_v1/media/math/render/svg/d0df1bbd611c3587f00ad4c03a383bdd4ee469fc'/>
+</div>
+
 ## Portas de Pauli (Pauli Gates)
+
+### Pauli Z Gate
 
 ### Pauli X Gate
 
 ### Pauli Y Gate
-
-### Pauli Z Gate
 
 ## Porta de Hadamard (Hadamard Gate)

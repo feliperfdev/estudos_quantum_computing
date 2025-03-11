@@ -2,6 +2,8 @@
 
 ## Sumário
 
+- [0. Álgebra Linear](estudos/0_algebra_linear_notacao_dirac.md)
+  - Notação de Dirac
 - [1. Introdução à Computação Quântica](estudos/1_introducao.md)
   - Superposição Quântica
   - Qubit vs Bit Clássico
@@ -13,10 +15,10 @@
   - Íons Aprisionados
   - Portas de Pauli
   - Porta de Hadamard
-- [3. Circuitos Quânticos]()
+- [3. Circuitos Quânticos](estudos/3_circuitos_quanticos.md)
 
 <div align='center'>
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Quantum_teleportation_circuit.svg/300px-Quantum_teleportation_circuit.svg.png'>
+<img src='https://i.sstatic.net/vLj8P.png'>
 
 </div>
