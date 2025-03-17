@@ -4,6 +4,7 @@
 
 - [0. Álgebra Linear](estudos/0_algebra_linear_notacao_dirac.md)
   - Notação de Dirac
+  - Produto entre dois estados quânticos
 - [1. Introdução à Computação Quântica](estudos/1_introducao.md)
   - Superposição Quântica
   - Qubit vs Bit Clássico
