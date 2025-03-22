@@ -1,4 +1,4 @@
-# 2. Quantum Gates - Portas Quânticas
+# 3. Quantum Gates - Portas Quânticas
 
 ## Portas Lógicas Tradicionais
 

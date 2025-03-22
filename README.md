@@ -2,21 +2,26 @@
 
 ## Sumário
 
-- [0. Álgebra Linear](estudos/0_algebra_linear_notacao_dirac.md)
-  - Notação de Dirac
-  - Produto entre dois estados quânticos
-- [1. Introdução à Computação Quântica](estudos/1_introducao.md)
-  - Superposição Quântica
-  - Qubit vs Bit Clássico
-  - Emaranhamento (ou entrelaçamento) quântico
-  - O estado de Bell
-- [2. Quantum Gates - Portas quânticas](estudos/2_portas_quanticas.md)
-  - Portas Lógicas Tradicionais
-  - Portas Lógicas Quânticas
-  - Íons Aprisionados
-  - Portas de Pauli
-  - Porta de Hadamard
-- [3. Circuitos Quânticos](estudos/3_circuitos_quanticos.md)
+- **Base**
+  - [0. Teoria da Comunicação e Computação Quântica](estudos/0_teoria_da_comunicacao_e_computacao_quantica.md)
+  - [1. Álgebra Linear](estudos/1_algebra_linear_notacao_dirac.md)
+    - Notação de Dirac
+    - Produto entre dois estados quânticos
+  - [2. Introdução à Computação Quântica](estudos/2_introducao.md)
+    - Superposição Quântica
+    - Qubit vs Bit Clássico
+    - Emaranhamento (ou entrelaçamento) quântico
+    - O estado de Bell
+  - [3. Quantum Gates - Portas quânticas](estudos/3_portas_quanticas.md)
+    - Portas Lógicas Tradicionais
+    - Portas Lógicas Quânticas
+    - Íons Aprisionados
+    - Portas de Pauli
+    - Porta de Hadamard
+  - [4. Circuitos Quânticos](estudos/4_circuitos_quanticos.md)
+- **Distribuição de Chaves Quânticas (QDK)**
+  - [0. Introdução QDK]()
+  - [1. Protocólos de QDK]()
 
 <div align='center'>
 

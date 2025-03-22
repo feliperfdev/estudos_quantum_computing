@@ -1,4 +1,6 @@
-# Notação de Dirac
+# 1. Álgebra Linear
+
+## Notação de Dirac
 
 **Ket: |ψ⟩**: O que, na quântica, irá representar um estado quântico. </br>
 **Bra: ⟨ψ|**: O que, na quântica, irá representar o complexo conjugado transposto ao ket.

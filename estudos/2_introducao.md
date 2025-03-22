@@ -1,4 +1,4 @@
-# 1 - Introdução à Computação Quântica
+# 2. Introdução à Computação Quântica
 
 ## Superposição Quântica
 
