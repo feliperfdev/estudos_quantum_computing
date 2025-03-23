@@ -19,9 +19,12 @@
     - Portas de Pauli
     - Porta de Hadamard
   - [4. Circuitos Quânticos](estudos/4_circuitos_quanticos.md)
-- **Distribuição de Chaves Quânticas (QDK)**
-  - [0. Introdução QDK]()
-  - [1. Protocólos de QDK]()
+- **Distribuição Quânticas de Chaves (QKD)**
+  - [0. Introdução QKD]()
+    - Alice e Bob
+  - [1. Protocólos de QKD]()
+    - BB84
+    - E91
 
 <div align='center'>
 
